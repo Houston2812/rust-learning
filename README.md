@@ -7,4 +7,7 @@ Currently contains:
 * hello cargo - to check cargo
 * guessing game - first project
 * variables - exploring way how variables work in Rust 
-* functions - exploring functions in Rust
+* functions - exploring functions in Rust 
+
+
+
