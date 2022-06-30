@@ -11,3 +11,6 @@ Currently contains:
 * control flow - exploring if statement and loops  
 
 
+Separate section is used for tasks. Currently following ones are done:  
+* Temperature conversion
+* Fibonacci numbers
